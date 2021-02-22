@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "John Do"
+title = "John Doe"
 
 theme = "hugo-coder"
 
